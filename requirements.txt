@@ -1,6 +1,6 @@
 streamlit
-matplotlib==3.9.2
+matplotlib3.9.2
 pandas
-XlsxWriter==3.2.2
+XlsxWriter3.2.2
 seaborn
-protobuf==4.25.3
+protobuf4.25.3
